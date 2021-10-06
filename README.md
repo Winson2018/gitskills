@@ -1,5 +1,4 @@
 # gitskills
 to learn gitskills
 
-ssss
-new and simple
+Creating a new branch is quick AND simple.
